@@ -1,2 +1,2 @@
 # NewtonSchool-resume1
-this id a responsive resume using grid
+This is a responsive resume using grid
